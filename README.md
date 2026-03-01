@@ -9,3 +9,4 @@
 ## Список лабораторных работ
 
 1. [Первичная настройка проекта](labs/1.Initial_project_setup.md)
+1. [Авторизация, ролевая модель, логирование и мониторинг](labs/2.Authorization_roles_logging_and_monitoring.md)
